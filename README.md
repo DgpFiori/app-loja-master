@@ -53,7 +53,7 @@ npm start
 
 ## Desenvolvedor
 
-- Nome: [Seu Nome]
+- Nome: Davi
 - Curso: Engenharia de Software
 - Período: 5º
 - Disciplina: Desenvolvimento de Dispositivos Móveis
